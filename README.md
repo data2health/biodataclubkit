@@ -1,5 +1,5 @@
 # BioData Club Kit
-To be successful, translational and informatics research is increasingly dependent upon team science, data science expertise, and open science practices. While many institutions provide some training in these areas, there are content gaps and many resources are locked behind formal course offerings or go beyond the basic skills that people need to work together.  Moreover, training opportunities are often delivered with a very specific audience in mind, so students across diciplines are not learning together nor building a common language for how to collaborate. 
+To be successful, translational and informatics research is increasingly dependent upon team science, data science expertise, and open science practices. While many institutions provide some training in these areas, there are content gaps and many resources are locked behind formal course offerings or go beyond the basic skills that people need to work together.  Moreover, training opportunities are often delivered with a very specific audience in mind.  Students across diciplines are not learning together nor building a common language for how to collaborate. 
 
 
 
