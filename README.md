@@ -4,6 +4,27 @@ The translational and informatics workforce is dependent upon the collaboration 
 However, it is a challenge to identify or create community building models, learning strategies, and content that appeals across domains and can be leveraged and adopted to implement these types of learning initiatives. At OHSU, BioData Club is a successful community building forum and Data Science/Open Science training resource. The BioData Club kit deliverables produced in phase 1 provide CTSA hubs and institutional stakeholders with resources and guidance for implementing similar initiatives at their institutions. Our phase 2 work will be focused on piloting the implementation of the BioData Club Kit at least 2 CTSA hubs. 
 
 
+## Talking Points
+
+## We're different than a MOOC because ...
+
+
+## We're different than a Meetup because ...
+
+- Collaborative Angle
+- Interdisciplinary
+- Learning environment
+- Team Science Skills
+    - Data Science as a Unifying Activity
+    - Team Science soft skills
+    - Build confidence to collaborate across fields
+    - We are not intimidated of each other because we socialize together
+- Our activities are team focused and inclusive
+
+- A community of practice is a community of collaboration
+
+BioData Club Kit is a blueprint for changing culture at your institution by breaking down silo-ed departments through a desire to learn together.
+
 ## Problem statement
 Please include a Project Statement on your landing page. Your problem statement should be in the form of: What can CTSAs/the community not do now, that would be addressed by this project's success? A problem statement should be a clear vision and the overall method that will be used to solve the problem at hand. 
 
