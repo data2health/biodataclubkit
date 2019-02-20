@@ -24,11 +24,6 @@ Robin Champieux (@rchampieux) | OHSU
 
 BioData Club Kit: https://github.com/BioDataClubKit/BioDataClubKit.github.io/
 
-### Example repos:
-This list can be omitted if you have only one repo (one and the same with the PM layer).
-Otherwise, list the other project-associated repos that live inside or outside the data2health GitHub organization.
-Note that only one repo per project needs to contain the PM layer. That is to say, don't add education to every repo in a project etc.
-
 ## Deliverables
 Each project should propose one or more deliverables. Examples: a released code package, a best practices document, a final survey, a set of survey results, etc.
 
