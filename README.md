@@ -7,34 +7,22 @@ To be successful, translational and informatics research is increasingly depende
 ## Project description
 BioData Club Kit is a model and set of resources which enable groups and institutions to bring people together from multiple disciplines for hands-on learning. It provides educational content for open science and data science skill building that is relevant across disciplines. The Kit’s content, tools, and pedagogical approach promote a fun and collaborative environment to learn from each other, and builds confidence to collaborate across fields. Use the BioData Club Kit to support career development and to increase collaboration at your CTSA community.
 
-## Contact person
-
-We require a contact person for each project for administrative purposes. Each project should also have a CD2H Program director assigned.
+## Contact Person
 
 Point person (github handle) | Site | Program Director
 ----------|--------------|---------------
-Julie McMurry (@jmcmurry) | OHSU | Melissa Haendel (@mellybelly)
+Ted Laderas (@laderast) | OHSU | Melissa Haendel (@mellybelly)
 
-## Leads 
-
-Project scientific leadership, should be 1-3 persons. 
+## Team Members
 
 Lead(s) (github handle) | Site
 ----------|--------------|
-Julie McMurry (@jmcmurry) | OHSU 
-
-
-## Team members 
-
-No action required here, a list of team members will be imported and linked below.
-
-See https://github.com/data2health/project-repo-template/tree/master/team.md
+Ted Laderas (@laderast) | OHSU 
+Robin Champieux (@rchampieux) | OHSU
 
 ## Repositories
 
-List all of the Github repositories associated with the project. Each project requires at least one repository to house the project management layer. The "PM layer" constitutes the readme.md, education.md, evaluation.md, engagment.md as well as the milestones and issues.
-
-You can either add the PM layer to an existing repository, or create a new repository for this and instead list the associated repositories below. Please be sure to tag any related repositories (whether or not they are already under the data2health organization) with the topic 'data2health'. The repository associated with the PM layer must be public. Other repositories associated with the project (where applicable) may be private for reasons of sensitivity or privacy. 
+BioData Club Kit
 
 ### Example repos:
 This list can be omitted if you have only one repo (one and the same with the PM layer).
