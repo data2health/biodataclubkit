@@ -1,7 +1,8 @@
-# Template for project repositories
-Before this example repo, team members had a hard time understanding the expectations for what the repo and associated milestones should look like. This repo provides a concrete (though abstracted) instantiation and provides an introductory GitHub tutorial for project management purposes. 
+# BioData Club Kit
+The translational and informatics workforce is dependent upon the collaboration of individuals across multiple domains with varying levels of expertise. While many institutions provide formal data science education, these resources are not available to  and do not meet the needs of all learners.  Moreover, these formal educational resources do not facilitate community building. 
 
-This "project" will be evaluated on the basis of how easily it is understood by members of the CD2H team who need to make their own similar repositories. 
+However, it is a challenge to identify or create community building models, learning strategies, and content that appeals across domains and can be leveraged and adopted to implement these types of learning initiatives. At OHSU, BioData Club is a successful community building forum and Data Science/Open Science training resource. The BioData Club kit deliverables produced in phase 1 provide CTSA hubs and institutional stakeholders with resources and guidance for implementing similar initiatives at their institutions. Our phase 2 work will be focused on piloting the implementation of the BioData Club Kit at least 2 CTSA hubs. 
+
 
 ## Problem statement
 Please include a Project Statement on your landing page. Your problem statement should be in the form of: What can CTSAs/the community not do now, that would be addressed by this project's success? A problem statement should be a clear vision and the overall method that will be used to solve the problem at hand. 
