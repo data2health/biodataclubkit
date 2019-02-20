@@ -1,5 +1,8 @@
 # BioData Club Kit
-The translational and informatics workforce is dependent upon the collaboration of individuals across multiple domains with varying levels of expertise. While many institutions provide formal data science education, these resources are not available to  and do not meet the needs of all learners.  Moreover, these formal educational resources do not facilitate community building. 
+To be successful, translational and informatics research is increasingly dependent upon team science, data science expertise, and open science practices. While many institutions provide some training in these areas, there are content gaps and many resources are locked behind formal course offerings or go beyond the basic skills that people need to work together.  Moreover, training opportunities are often delivered with a very specific audience in mind and students across diciplines are not learning together.  
+
+
+
 
 However, it is a challenge to identify or create community building models, learning strategies, and content that appeals across domains and can be leveraged and adopted to implement these types of learning initiatives. At OHSU, BioData Club is a successful community building forum and Data Science/Open Science training resource. The BioData Club kit deliverables produced in phase 1 provide CTSA hubs and institutional stakeholders with resources and guidance for implementing similar initiatives at their institutions. Our phase 2 work will be focused on piloting the implementation of the BioData Club Kit at least 2 CTSA hubs. 
 
