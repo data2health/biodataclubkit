@@ -22,7 +22,7 @@ Robin Champieux (@rchampieux) | OHSU
 
 ## Repositories
 
-BioData Club Kit
+BioData Club Kit: https://github.com/BioDataClubKit/BioDataClubKit.github.io/
 
 ### Example repos:
 This list can be omitted if you have only one repo (one and the same with the PM layer).
