@@ -27,7 +27,7 @@ BioData Club Kit: https://github.com/BioDataClubKit/BioDataClubKit.github.io/
 ## Deliverables
 
 * Forkable website
-* Open Access workshop materials mapped to the Educational Resource and Competency Marmonization Project
+* Open Access workshop materials mapped to the Educational Resource and Competency Harmonization Project
 * Survey tools to assess learning goals and outcomes
 * Implementation roadmap and guidebook
 
