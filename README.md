@@ -1,5 +1,5 @@
 # BioData Club Kit
-BioData Club Kit is a model and set of resources which enable groups and institutions to bring people together from multiple disciplines for hands-on learning. It provides educational content for open science and data science skill building that is relevant across disciplines. The Kit’s content, tools, and pedagogical approach promote a fun and collaborative environment to learn from each other, and builds confidence to collaborate across fields. Use the BioData Club Kit to support career development and to increase collaboration at your CTSA community.
+The BioData Club Kit helps a CTSA hubs facilitate community building, support new collaborations, and improve translational workforce competency in data and open science.
 
 ## Problem statement
 To be successful, translational and informatics research is increasingly dependent upon team science, data science expertise, and open science practices. While many institutions provide some training in these areas, there are content gaps and many resources are locked behind formal course offerings or go beyond the basic skills that people need to work together. Moreover, training opportunities are often delivered with a very specific audience in mind. Students across disciplines are not learning together nor building a common language for how to collaborate.
@@ -31,35 +31,8 @@ BioData Club Kit: https://github.com/BioDataClubKit/BioDataClubKit.github.io/
 * Survey tools to assess learning goals and outcomes
 * Implementation roadmap and guidebook
 
-## Milestones 
-Each deliverable is represented as a Milestone, but not all Milestones need be deliverables. For example, see this 'report on XYZ' is a [Deliverable Milestone](https://github.com/data2health/project-repo-template/milestone/2)
-
-Please create 4-8 Milestones for each project, with dates prior to August 31st.  Milestones for partially completed deliverables are acceptable: beta release of software, # interviews performed, 75% coverage, etc. 
-
-Each Milestone must have at least one Issue (aka 'ticket'), each issue should be assigned to a person, preferably one at a time; reassignments are fine. Issues with checklists showing degree of completion are also acceptable, see [example](https://github.com/data2health/project-repo-template/issues/2).
-
-GitHub help on Milestones is [here](https://help.github.com/articles/creating-and-editing-milestones-for-issues-and-pull-requests/)
-
-## Evaluation
-Each project should propose a set of evaluation measures, recorded in a separate Evaluation Plan file, for example [here](https://github.com/data2health/project-repo-template/blob/master/evaluation.md). These will be reviewed by the Evaluation committee and approved by the Program Directors and NCATS. The Evaluation committee will meet with each Project team leads to assist. 
-
-Each project should have Evaluation-realated issues, that can be tagged with the "evaluation" tag. see [Example Evaluation Issue](https://github.com/data2health/project-repo-template/issues/5)
-
-## Education
-Each project should propose a set of educational activities, listed separately in the Education Plan file. 
-Please reference any of the following that apply: 
-- Educational resources that will be generated (these can be milestones and/or files in the repo)
-- Educational opportunities (please indicate for which type of learner and how to participate)
-- Best practices guides
-
-Please include education related issues where relevant, tagged with "education". 
-
 ## Get involved
-We encourage the community to get involved. 
 
-We require all CD2H projects to have non-CD2H CTSA participants, as CD2H is a CTSA coordinating center. Each project should include an Engagement plan file, example [here](https://github.com/data2health/project-repo-template/blob/master/engagement.md). 
-
-Please tag any engagment related issues with "engagement".
 
 ## Working documents
 Documentation may be natively in GitHub using the wiki or .md files in the appropriate folder, or in Google Drive.
