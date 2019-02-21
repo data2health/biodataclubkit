@@ -25,7 +25,11 @@ Robin Champieux (@rchampieux) | OHSU
 BioData Club Kit: https://github.com/BioDataClubKit/BioDataClubKit.github.io/
 
 ## Deliverables
-Each project should propose one or more deliverables. Examples: a released code package, a best practices document, a final survey, a set of survey results, etc.
+
+* Forkable website
+* Open Access workshop materials mapped to relevant competencies
+* Survey tools to assess learning goals and outcomes
+* Implementation roadmap and guidebook
 
 ## Milestones 
 Each deliverable is represented as a Milestone, but not all Milestones need be deliverables. For example, see this 'report on XYZ' is a [Deliverable Milestone](https://github.com/data2health/project-repo-template/milestone/2)
