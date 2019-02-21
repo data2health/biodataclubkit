@@ -32,18 +32,4 @@ BioData Club Kit: https://github.com/BioDataClubKit/BioDataClubKit.github.io/
 * Implementation roadmap and guidebook
 
 ## Get involved
-
-
-## Working documents
-Documentation may be natively in GitHub using the wiki or .md files in the appropriate folder, or in Google Drive.
-[Documentating projects in Github](https://guides.github.com/features/wikis/)
-
-[The project Google drive folder](https://drive.google.com/drive/u/0/folders/1vLp-H32KTNobiZF2cK82At90S6dVJNUf) is accessible to onboarded participants. 
-
-## Slack room
-[The project slack room](https://cd2h.slack.com/messages/C9D9SQWEQ) is accessible to onboarded participants. You will not automatically be added to Slack, please join via the link above.
-
-## Need help with GitHub? See the Managing Tranlational Informatics Projects (MTIP) tutorial
-
-This [tutorial](https://data2health.github.io/mtip-tutorial/lessons/Lesson5.html) covers markdown basics and more.
-
+Contact Ted Laderas (@laderast) if you are interested in launching a BioData Club at your institution.
