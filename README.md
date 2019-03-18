@@ -8,7 +8,7 @@ To be successful, translational and informatics research is increasingly depende
 BioData Club Kit is a model and set of resources which enable groups and institutions to bring people together from multiple disciplines for hands-on learning. It provides educational content for open science and data science skill building that is relevant across disciplines. The Kit’s content, tools, and pedagogical approach promote a fun and collaborative environment to learn from each other, and builds confidence to collaborate across fields. Use the BioData Club Kit to support career development and to increase collaboration at your CTSA community.
 
 ## Alignment to program objectives
-TODO see [here](https://github.com/data2health/operations/blob/master/foa.md)
+TODO see [here](https://github.com/data2health/roadmap/blob/master/cd2h-foa.md)
 
 ## Contact Person
 
