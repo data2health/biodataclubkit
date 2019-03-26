@@ -29,7 +29,6 @@ Sean Mooney | [sdmooney](http://github.com/sdmooney) | UW
 Milen Nikolov | [milen-sage](https://github.com/milen-sage) | Sage
 Philip Payne | [prpayne5](http://github.com/prpayne5) | WashU
 Thomas Schaffter | [tschaffter](https://github.com/tschaffter) | Sage
-Pamela Shaw | [bioscibrarian](https://github.com/bioscibrarian) | Northwestern
 Eric Sid | [ericsid](https://github.com/ericsid) | NCATS
 Harold Solbrig | [hsolbrig](http://github.com/hsolbrig) | JHU
 Ali Torkamani | [atorkama](https://github.com/atorkama) | Scripps
