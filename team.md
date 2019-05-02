@@ -4,15 +4,14 @@
 Name | GitHub Handle | Site
 -- | -- | --
 Robin Champieux | [rchampieux](https://github.com/rchampieux) | OHSU
-Ammar Chaudhry | [informatics](https://github.com/achaudhry615/informatics) | COH
 Ted Laderas | [laderast](https://github.com/laderast) | OHSU
-Sam Volchenboum | [volcs0](https://github.com/volcs0) | UChicago
 
 ## Contributor(s)
 Name | GitHub Handle | Site
 -- | -- | --
 Nick Anderson | [flipcorp](http://github.com/flipcorp) | UCDavisHealth
 Matt Carson | [carsonicator](https://github.com/carsonicator) | Northwestern
+Ammar Chaudhry | [informatics](https://github.com/achaudhry615/informatics) | COH
 Ken Gersing | [KenGersing](https://github.com/KenGersing) | NCATS
 JP Gourdine | [jpgourdine](https://github.com/jpgourdine) | OHSU
 Boyd Knosp | [boydknosp](http://github.com/boydknosp) | Iowa
@@ -21,6 +20,7 @@ Lisa O'Keefe | [LisaOKeefe1](https://github.com/LisaOKeefe1) | Northwestern
 Andrey Rzhetsky | [arzhetsky](http://github.com/arzhetsky) | UChicago
 Pamela Shaw | [bioscibrarian](https://github.com/bioscibrarian) | Northwestern
 Bradley Taylor | [btaylormcw](https://github.com/btaylormcw) | MCW
+Sam Volchenboum | [volcs0](https://github.com/volcs0) | UChicago
 
 ## Mailing list only
 Name | GitHub Handle | Site
