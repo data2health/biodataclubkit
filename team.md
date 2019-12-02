@@ -9,7 +9,6 @@ Ted Laderas | [laderast](https://github.com/laderast) | OHSU
 ## Contributor(s)
 Name | GitHub Handle | Site
 -- | -- | --
-Nick Anderson | [flipcorp](http://github.com/flipcorp) | UCDavisHealth
 Matt Carson | [carsonicator](https://github.com/carsonicator) | Northwestern
 Ammar Chaudhry | [informatics](https://github.com/achaudhry615/informatics) | COH
 Ken Gersing | [KenGersing](https://github.com/KenGersing) | NCATS
@@ -26,7 +25,7 @@ Name | GitHub Handle | Site
 -- | -- | --
 Christopher Chute | [cgchute](https://github.com/cgchute) | JHU
 Connor Cook | [cgcook](https://github.com/cgcook) | OHSU
-David Dorr | [davedorr9](http://github.com/davedorr9) | OHSU
+David Dorr | [davedorr](http://github.com/davedorr) | OHSU
 Peter Elkin | [github.com](http://github.com) | UBuffalo
 David Ellison | [dhekidney](http://github.com/dhekidney) | OHSU
 Shahim Essaid | [ShahimEssaid](http://github.com/ShahimEssaid) | OHSU
